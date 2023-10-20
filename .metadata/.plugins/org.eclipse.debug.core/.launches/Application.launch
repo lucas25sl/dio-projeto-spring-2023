@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <booleanAttribute key="org.eclipse.debug.core.ATTR_FORCE_SYSTEM_CONSOLE_ENCODING" value="false"/>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/dio-projeto-spring-2023/src/main/java/me/dio/Application.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <mapAttribute key="org.eclipse.debug.core.environmentVariables">
+        <mapEntry key="PGDATABASE" value="railway"/>
+        <mapEntry key="PGHOST" value="containers-us-west-75.railway.app"/>
+        <mapEntry key="PGPASSWORD" value="5XlKXWQQGvPWYSdqXG1t"/>
+        <mapEntry key="PGPORT" value="7244"/>
+        <mapEntry key="PGUSER" value="postgres"/>
+        <mapEntry key="SPRING_PROFILES_ACTIVE" value="prd"/>
+    </mapAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_ATTR_USE_ARGFILE" value="false"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_SHOW_CODEDETAILS_IN_EXCEPTION_MESSAGES" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_CLASSPATH_ONLY_JAR" value="false"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="me.dio.Application"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="dio-projeto-spring-2023"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="dio-projeto-spring-2023"/>
+</launchConfiguration>
